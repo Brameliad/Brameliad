@@ -1,4 +1,4 @@
-
+//Base for a neural network
 
 public class Main{
     private int[][] inputs = {{0, 0, 1}, {1, 1, 1}, {1,0,1}, {0,1,1}};
